@@ -1,6 +1,6 @@
 ## Side Channel Simulator
 
-This script simulates a side channel attack using power traces to guess an AES key. The script is written in Python and uses the `numpy` and `matplotlib` libraries.
+This script simulates a side channel attack using power traces to guess an AES key. The script is written in Python and uses the `numpy` and `matplotlib` and `scipy` libraries.
 
 ## License
 
